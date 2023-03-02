@@ -1,67 +1,41 @@
-# Propcraft Evolution Chain Whitepaper(Initial Draft)
+# CryptoCar Evolutive NFT Whitepaper(Initial Draft)
 
-## Reward and Recognize Propcrafters via Evolutive Props and Crafts Tokens
+## Reward and Recognize car owners/players with Evolutive CryptoCar NFT Tokens
 
 - [Inception](#inception)
 - [Mission](#mission)
 - [Design Principles](#design-principles)
-- [Native Token(PRO)](#native-token-pro)
-- [Token Issuance](#token-issuance)
-- [Other Tokens](#other-tokens)
 - [Features](#features)
 - [Contributing and Community](#contributing-and-community)
 
 ## Inception
 
-Everything acts as some kind of prop or craft (propcraft). Propcrafts exist forever in NFT(Non-Fungible Token). 
+Everything acts as some kind of prop or craft (propcraft). Propcrafts exist forever in NFT(Non-Fungible Token). CryptoCar is just one concrete application type of propcraft.
 
 Current market still lacks of excellent NFT standards which support propcrafts to seamlessly traverse/trek through different applicaitons, games or virtual horizons, such as game items, characters/avatars, props and AI crafts.
 
-Propcraft project is trying to create and establish such NFT token standards and implement them on top of blockchain technology.
-Propcraft token program whitepaper
+CryptoCar project is trying to create and establish such NFT token standards and implement them on top of Miraland blockchain technology.
 
 ## Mission
 
-Construct a DAO community dedicated to NFTs of props and crafts crossing beyond horizons of multiple games, applications and industries.
+Construct a DAO community dedicated to CryptoCar NFTs crossing beyond horizons of multiple games, applications and automotive brands.
 
-Develop and advance ecosystem of propcrafts, from propcrafts NFT minting, presentation, air drop, earn, exchange, transaction as well as circulation.
+Develop and cultivate CryptoCar ecosystem, from CryptoCar NFT minting, presentation, air drop, earn, exchange, transaction as well as circulation.
 
-Enable propcrafts flexible to have their own abilities, components as well as attributes. Components themselves may also be NFTs, and can be mounted/unmounted to/from other propcrafts, becoming a part or sub component of others. 
+Enable CryptoCars flexible to have their own abilities, components as well as attributes. Components themselves may also be NFTs, and can be mounted/unmounted to/from other propcrafts, becoming a part or sub component of others. 
 
-Support evolutive propcrafts. The abilities, attributes or components of propcrafts can change as time goes by, that is, propcrafts tend to evolve over time. 
+Support evolutive CryptoCars. The abilities, attributes or components of cryptocars can change as time goes by, that is, cryptocars tend to evolve over time. 
 
-Construct general props and crafts protocol, design proof of evolution(PoE) by which all community members will be rewarded and recognized with PRO tokens or some kinds of NFT. The common approaches to obtain tokens and NFTs include air drop as well as multiple social interactions like sign up, sign in, check in, post, comment, forward, etc. Meanwhile, Play-to-Earn is another important way to obtain and evolve propcrafts’ performance.
-
-Customize and build web3.0 oriented propcrafts blockchain, provide propcrafts-friendly token(FT + NFT) lifecycle management, covering mint, mount/unmount, transfer, move, change, activate/deactivate, burn, etc.
+Construct community-driven CryptoCar evolution protocol, design proof of evolution(PoE) by which all community members/car owners will be rewarded and recognized with native/sub-native tokens or unique and specialized NFT. The common approaches to obtain tokens and NFTs include air drop as well as multiple social interactions like sign up, sign in, check in, post, comment, forward, etc. Meanwhile, Play-to-Earn is another important way to obtain and evolve CryptoCars’ performance.
 
 ## Design Principles
 
 *TODO*
 
-## Native Token (PRO)
 
-PRO will be generated on Propcraft Evolution Chain(PEC) in the similar way as ETH/SOL generated on Ethereum/Solana so that it plays as “native token” for PEC. PRO will be used to:
+## Tokens
 
-1. stake PRO tokens as validators, and get corresponding rewards
-2. delegate PRO tokens to validators,and earn shared rewards
-3. pay transaction fees for propagating transactions(aka "gas fees")
-4. pay data storage fees on chain
-
-## Token Issuance
-
-- Token name: Propcraft
-- Token symbol: PRO
-- Initial supply = 1,000,000,000 PROs
-- Inflation rate: 2%
-- Initial token allocation:
-    - Project Team: 30%
-    - Community: 30%
-    - Foundations: 20%
-    - Public Sales: 20%
-
-## Other Tokens
-
-Besides native tokens, sub-native tokens and non-fungible token(NFT) are also important virtual assets.
+There are three(3) token categories:  native fungible tokens(MLN), derived ERC20 like tokens(Points, etc) as well as non-fungible tokens(CryptoCar NFT and others) which are all users' virtual assets carrying value.
 
 ## Features
 
@@ -69,9 +43,7 @@ Besides native tokens, sub-native tokens and non-fungible token(NFT) are also im
 
 ## Contributing and Community
 
-We are looking for propcrafts' token fans and engineers to participate in this project, you may contact us at:
+We are looking for CryptoCars' token fans and engineers to participate in this project, you may contact us at:
 
 - [Discord](https://discord.gg/EHfVWAzkBP)
 - [GitHub Issues](https://github.com/bluecrland/whitepaper/issues)
-
-
