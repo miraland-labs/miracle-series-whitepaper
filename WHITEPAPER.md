@@ -45,5 +45,5 @@ There are three(3) token categories:  native fungible tokens(MLN), derived ERC20
 
 We are looking for CryptoCars' token fans and engineers to participate in this project, you may contact us at:
 
-- [Discord](https://discord.gg/EHfVWAzkBP)
-- [GitHub Issues](https://github.com/bluecrland/whitepaper/issues)
+- [Discord](https://discord.gg/jJUGKcKNz5)
+- [GitHub Issues](https://github.com/miraland-labs/crypto-car-whitepaper/issues)
