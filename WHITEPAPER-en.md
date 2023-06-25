@@ -10,7 +10,7 @@ Civilization has entered the era of Web 3.0 and AI. AI has greatly increased pro
 
 The automobile, and especially the current birth of the intelligent species represented by the smart car, is the frontier battleground where Crai can be integrated and concentrated. From smart driving or smart interaction, to the data generated and the value derived from it, to the sovereign ownership of various rights and interests, everything is connected and rooted in Crai! Crai transforms everything and this is how the Crai Transformer X project was born.
 
-The Crai Transformer X project consists of two core components: an AI-enabled user-governed value community (Qing Tong Horizon) and a crypto-driven community chain that forms the underlying decentralized infrastructure, the Miraland blockchain. The former focuses on user interaction and user experience, while the latter focuses on providing fair and equal trust and value support.
+The **Crai Transformer X** project consists of two core components: an AI-enabled user-governed value community (Qing Tong Horizon) and a crypto-driven community chain that forms the underlying decentralized infrastructure, the Miraland blockchain. The former focuses on user interaction and user experience, while the latter focuses on providing fair and equal trust and value support.
 
 ## Qing Tong Horizon (QTH)
 
