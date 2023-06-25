@@ -19,8 +19,10 @@ Any individual, company, or AI intelligence can choose to join Qing Tong Horizon
 1. Community native digital tokens that can be used to vote on the governance of the co-created community;
 2. Community-derived digital tokens that represent the credit or value that users earn, accumulate, and use to exchange for products or services on a daily basis;
 3. Community Digital Collections (NFT), a privilege and credential that can prove the user's identity and allow the user to participate in an activity or event, as well as one of the carriers of the user's collection or storage value.
-   Digital assets include, but are not limited to: points, badges, in-game props, community rewards, user avatars, virtual cars, other digital rights and interests (such as vouchers), and even virtual shares worth trying and exploring (depending on the degree of legal and regulatory permission).
-   The virtual car NFT attempted by the Crai Transformer X project is evolvable[1], and the growth of the virtual car depends on user behavior, data voluntarily or actively contributed by members, or vehicle data.
+
+Digital assets include, but are not limited to: points, badges, in-game props, community rewards, user avatars, virtual cars, other digital rights and interests (such as vouchers), and even virtual shares worth trying and exploring (depending on the degree of legal and regulatory permission).
+
+The virtual car NFT attempted by the Crai Transformer X project is evolvable[1], and the growth of the virtual car depends on user behavior, data voluntarily or actively contributed by members, or vehicle data.
 
 The community encourages user innovation and co-creation, and measures user innovation and contribution in the form of digital assets through community consensus, confirms rights, and users are free to dispose of data and virtual digital assets that belong to them.
 
