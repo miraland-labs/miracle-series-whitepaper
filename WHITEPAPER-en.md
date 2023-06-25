@@ -6,7 +6,7 @@
 
 ## Crai Transformer X (CATX)
 
-Civilization has entered the era of Web 3.0 and AI. AI has greatly increased productivity, and Web 3.0 has naturally provided the accompanying production relations for this revolutionary productivity, which is also the basis of Web 3.0: crypto-rized decentralization. To more succinctly express this combination of revolutionary productivity and innovative production relations, we define a new term: Crai, which means the fusion of crypto and AI.
+Civilization has entered the era of Web 3.0 and AI. AI has greatly increased productivity, and Web 3.0 has naturally provided the accompanying production relations for this revolutionary productivity, which is also the basis of Web 3.0: crypto-rized decentralization. To more succinctly express this combination of revolutionary productivity and innovative production relations, we define a new term: **Crai**, which means the fusion of crypto and AI.
 
 The automobile, and especially the current birth of the intelligent species represented by the smart car, is the frontier battleground where Crai can be integrated and concentrated. From smart driving or smart interaction, to the data generated and the value derived from it, to the sovereign ownership of various rights and interests, everything is connected and rooted in Crai! Crai transforms everything and this is how the Crai Transformer X project was born.
 
