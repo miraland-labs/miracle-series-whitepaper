@@ -41,11 +41,11 @@
 
 ## Screenshots from Devnet
 
-![My tokoens](/assets/images/my-tokens.png "My Tokens")
-![Mint Raccoons](/assets/images/coon-mint.png "Mint Raccoons")
-![Mint Tranformers](/assets/images/catx-mint.png "Mint Transformers")
-![My Transactions](/assets/images/my-tx.png "My Transactions")
-![Airdrop Requests](/assets/images/airdrop.png "Request Airdrop")
+![My tokoens](/assets/images/my-tokens.jpg "My Tokens")
+![Mint Raccoons](/assets/images/coon-mint.jpg "Mint Raccoons")
+![Mint Tranformers](/assets/images/catx-mint.jpg "Mint Transformers")
+![My Transactions](/assets/images/my-tx.jpg "My Transactions")
+![Airdrop Requests](/assets/images/airdrop.jpg "Request Airdrop")
 
 ## 社区贡献
 
