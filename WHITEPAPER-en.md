@@ -11,7 +11,7 @@
 - [Contributing and Community](#contributing-and-community)
 - [Appendix: Screenshots](#appendix-screenshots-from-devnet-for-part-of-user-experience)
 
-The old era is leaving, and civilization has entered the era of web3.0 and AI. AI has greatly increased productivity, and web3.0 naturally provides the accompanying production relationship for this revolutionary productivity, which is also the basis of web3.0's argument: crypto-rized decentralization. From web3.0 to AI, product iterations have gradually accelerated, and the new economic model of combining Ai and Crypto has swept the world. To more concisely express this combination of revolutionary productivity and innovative production relations, we have defined a brand new term: Crai, which stands for the deep integration or fusion of Crypto and Ai.
+The old era is leaving, and civilization has entered the era of web3.0 and AI. AI has greatly increased productivity, and web3.0 naturally provides the accompanying production relationship for this revolutionary productivity, which is also the basis of web3.0's argument: crypto-rized decentralization. From web3.0 to AI, product iterations have gradually accelerated, and the new economic model of combining Ai and Crypto has swept the world. Virtual digital assets are bound to bring a breeze of fresh air to the automotive industry that is rolling towards the extreme, opening up a whole new space of value. To more concisely express this combination of revolutionary productivity and innovative production relations, we have defined a brand new term: Crai, which stands for the deep integration or fusion of Crypto and Ai.
 
 The idea of the sovereign individual is quietly approaching and is being familiarized, recognized and accepted by the younger generation. The introduction of various data security and privacy protection-related bills in many countries around the world is just an introduction and bootstrap to the trend of the sovereign individual era. Crai has pushed the traditional industry to unprecedented heights, even rolled to suffocating. The car, now as the first form of existence of intelligent species or rather robots, is the host of highly integrated and concentrated cutting-edge technology; and the TranformerX (whether Humankind or Autobot) naturally becomes the ideal carrier for developing and practicing the concept of sovereign individual.
 
@@ -48,9 +48,11 @@ As a sovereign individual, any individual, corporate or AI intelligence can choo
 **Community Vision: Crafting The Most Trustless Value Community In Crai Era**
 
 QTH plans to introduce three categories of digital assets for airdrop, reward, award, or grant to community members:
-1. Community native digital tokens that can be used to vote on the governance of the co-created community;
-2. Community-derived digital tokens that represent the credit or value that users earn, accumulate, and use to exchange for products or services on a daily basis;
-3. Community Digital Collections (NFT), a privilege and credential that can prove the user's identity and allow the user to participate in an activity or event, as well as one of the carriers of the user's collection or storage value.
+1. **Community native digital tokens** that can be used for governance voting in co-creation communities, carrying community consensus and value, or used for co-creation crowdfunding-related "virtual equity" exploration, etc.
+
+2. **Community-derived digital tokens** that represent the credit or value that users earn, accumulate, and use to exchange for products or services on a daily basis, and can of course be used to map the community's "virtual equity";
+
+3. **Community Digital Collections (NFT)**, a privilege and credential that can prove the user's identity and allow the user to participate in an activity or event, as well as one of the carriers of the user's collection or storage value.
 
 Community digital assets include but are not limited to: points, badges, game props, community rewards, user avatars, virtual cars, other digital rights and interests (such as vouchers) and even virtual shares worth trying and exploring (depending on the degree of legal and regulatory permission).
 
