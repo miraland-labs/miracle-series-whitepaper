@@ -91,7 +91,8 @@ Community digital assets are currently designed for carbon-based civilizations a
 We are looking for CryptoCars' token fans and engineers to participate in this project, you may contact us at:
 
 - [Discord](https://discord.gg/jJUGKcKNz5)
-- [GitHub Issues](https://github.com/miraland-labs/crai-transformer-x-whitepaper/issues)
+- [Whitepaper GitHub Issues](https://github.com/miraland-labs/crai-transformer-x-whitepaper/issues)
+- [Miraland Blockchain Github](https://github.com/miraland-labs/miraland)
 
 ## Eco List
 ### built-in Baydoven Web3 Community

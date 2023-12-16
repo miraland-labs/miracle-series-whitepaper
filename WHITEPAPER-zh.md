@@ -78,7 +78,8 @@
 我们正在寻找汽车人项目的爱好者和工程师加入项目或社区，欢迎入群或提交问题：
 
 - [Discord](https://discord.gg/jJUGKcKNz5)
-- [GitHub Issues](https://github.com/miraland-labs/crai-transformer-x-whitepaper/issues)
+- [Whitepaper GitHub Issues](https://github.com/miraland-labs/crai-transformer-x-whitepaper/issues)
+- [Miraland Blockchain Github](https://github.com/miraland-labs/miraland)
 
 ## 生态名单
 ### 原生【贝多分web3社区】
