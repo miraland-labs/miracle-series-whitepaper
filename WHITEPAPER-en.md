@@ -29,6 +29,7 @@ As a sovereign individual, any individual, corporate or AI intelligence can choo
 **Community Vision: Crafting The Most Trustless Value Community in the Age of Sovereign Individuals**
 
 MSHZ plans to launch four types of digital assets for airdrop, reward, award, or grant to community members:
+
 1. **Community native digital tokens (MLN)** that can be used for community governance voting, carrying community consensus and value, and can also be used for crowdfunding related "voting rights" or "virtual equity" exploration, etc.
 
 2. **Community-derived digital tokens** that represent the credit or value that users earn, accumulate, and use to exchange for products or services on a daily basis, and of course can also be used to map the community's "influence", "voting rights" or even "virtual equity".
@@ -86,8 +87,11 @@ At alpha stage, in order to gather community consensus, and also as an attempt t
 **Beta stage**, once the set goals of alpha phase are completed, it will enter the beta testing phase, when the testnet and devnet will be launched at the same time to fully prepare for the mainnet launch.
 
 During the **mainnet launch stage**, Miraland blockhain is officially launched and the native token(MLN) takes effect immediately. Qualified mirascapians and node users can redeem MLN for free. Redemption is divided into three categories according to the current plan:
+
 1) Free redemption with $carbon
+
 2) Participate in community activities to redeem points
+
 3) Validation node rewards redemption
 
 Mirascapians who hold $carbon in previous stages can redeem MLN for free at a ratio of 1:10 after the mainnet goes live, while still retaining their $carbon unchanged. For instance, one $carbon can receive 10 free MLN.
