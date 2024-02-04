@@ -34,7 +34,7 @@
 社区数字资产包括但不限于：积分、徽章、游戏道具、社区奖励、用户虚拟形象、虚拟车、其他数字权益（如兑换券）乃至值得尝试与探索的虚拟股权（取决于所在国家法律法规许可程度）等。
 加密卡符应用尝试推出的虚拟车NFT是可演进的[1]，虚拟车的成长/生长取决于用户行为、会员自愿或主动贡献的行为数据或车辆数据。
 
-![Miracle Digital Assets](/assets/images/digital-assets-zh.png "Miracle Digital Assets")
+![Miracle Digital Assets](assets/images/digital-assets-zh.png "Miracle Digital Assets")
 
 社区鼓励用户创新与共创，并通过社区共识以数字资产的形式对用户进行奖励，用户对属于自己的虚拟数字资产自由处置。
 
@@ -58,19 +58,19 @@
 
 社区数字资产当前为碳基文明设计，属于用户个人，但终极目标还包括硅基文明。数字资产终将为所有智能物种而设计打造（无论是碳基还是硅基物种），是智能物种之间交换信任和价值的天然的原生凭证。初期一定是在法律框架监管下在社区个人之间试点流通，中期将在主权个人和智能物种之间流转，长期看是智能物种之间相互交换的信物。
 
-![Outlook](/assets/images/outlook-zh.jpg "Outlook")
+![Outlook](assets/images/outlook-zh.jpg "Outlook")
 
 ## 发行计划（在主网上线之前存在依据社区共识几其他重要因素调整的可能性）
 
 米兰链计划发行5亿枚原生数字通证“米兰”（MLN），其中40%将用于社区空投。米兰是否需要考虑年度增发最终取决于社区共识，但即便社区共识认可增发，年增发量也会呈现递减趋势，即从初始的8%递减到1%后保持不变。米兰初始分布如下图。
 
-![MLN Initial Distribution](/assets/images/mln-distribution.png "Distribution")
+![MLN Initial Distribution](assets/images/mln-distribution.png "Distribution")
 
 米兰社区与米兰链的发展路线可以分为三大阶段：alpha阶段，beta阶段，主网上线阶段。根据项目进展情况，在不同阶段采取不同的数字资产发行方式。
 
 alpha阶段，团队以募集资本和招募验证节点为主要任务，越早投入项目的赞助人，获得的优惠越多；越早成为验证节点，获得的米兰奖励也越多，欢迎报名成为米兰验证节点。
 
-![Tiered Validator Rewards](/assets/images/validator-rewards.png "Validator Rewards")
+![Tiered Validator Rewards](assets/images/validator-rewards.png "Validator Rewards")
 
 在本阶段，为了凝聚社区共识，同时作为生态圈共生互联的尝试探索，社区选择采纳使用衍生数字资产$carbon作为社区的理念共识，$carbon是BTC生态里的ARC20数字资产，其发行目的是为了跟进碳足迹促进碳中和，和米兰社区加密车的理念一致，选择ARC20数字资产同时也是为了向BTC致敬。$carbon用作映射并免费获取未来社区原生加密数字资产的凭证，提供更广阔的生态创新空间。$carbon总供应量10万张，每张含20000聪BTC币本位，公平发射，自由挖取或交易获得。
 
@@ -97,12 +97,12 @@ beta阶段，一旦完成alpha阶段的既定目标，将进入beta测试阶段�
 
 ## 附录: 开发网用户交互体验部分功能预览
 
-![Overview](/assets/images/qth-tokens.png "Overview")
-![My tokoens](/assets/images/my-tokens.jpg "My Tokens")
-![Mint Raccoons](/assets/images/coon-mint.jpg "Mint Raccoons")
-![Mint Tranformers](/assets/images/catx-mint.jpg "Mint Transformers")
-![My Transactions](/assets/images/my-tx.jpg "My Transactions")
-![Airdrop Requests](/assets/images/airdrop.jpg "Request Airdrop")
+![Overview](assets/images/qth-tokens.png "Overview")
+![My tokoens](assets/images/my-tokens.jpg "My Tokens")
+![Mint Raccoons](assets/images/coon-mint.jpg "Mint Raccoons")
+![Mint Tranformers](assets/images/catx-mint.jpg "Mint Transformers")
+![My Transactions](assets/images/my-tx.jpg "My Transactions")
+![Airdrop Requests](assets/images/airdrop.jpg "Request Airdrop")
 
 注：
 [1] 参见[虚拟加密车白皮书](https://github.com/miraland-labs/crypto-car-whitepaper/blob/main/WHITEPAPER.md)

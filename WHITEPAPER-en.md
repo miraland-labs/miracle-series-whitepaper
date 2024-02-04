@@ -42,7 +42,7 @@ Community digital assets include but are not limited to: points, badges, game pr
 The virtual car NFT that the Crypto-Carfoo application tries to launch is evolvable[1], and the growth of the virtual car depends on user behavior, data voluntarily or actively contributed by members or vehicle data.
 
 
-![Carfoo Digital Assets](/assets/images/digital-assets-en.png "Carfoo Digital Assets")
+![Carfoo Digital Assets](assets/images/digital-assets-en.png "Carfoo Digital Assets")
 
 The community encourages users to innovate and co-create, and rewards to users in the form of digital assets through community consensus, and users are free to dispose of the virtual assets belonging to them.
 
@@ -66,20 +66,20 @@ Miraland Chain defends the sustainable development of the community, which prote
 
 Community digital assets are currently designed for carbon-based civilizations and belong to individual users, but the ultimate goal also includes silicon-based civilizations. Digital assets will eventually be designed and built for all intelligent species (whether carbon-based or silicon-based) and are natural and native credentials for exchanging trust and value between intelligent species. Initially, they must be piloted and circulated among individuals in the community under the regulation of a legal framework, in the medium term they will circulate between sovereign individuals and intelligent species, and in the long term they will be tokens of mutual exchange between intelligent species.
 
-![Outlook](/assets/images/outlook-en.jpg "Outlook")
+![Outlook](assets/images/outlook-en.jpg "Outlook")
 
 ## Token Issuance Program
 **This plan is subject to change based on community consensus or other important factors before going live on the mainnet.**
 
 MLBC plans to issue 500 million native token miraland(MLN) from genesis, 40% of which will be used for community airdrops. Whether or not MLN should be considered for annual issuance will ultimately depend on the community consensus, but even if the community consensus recognizes the issuance, the annual issuance will show a decreasing trend, i.e., it will decrease from the initial 8% to 1% and then remain unchanged. The initial distribution of MLN is shown below.
 
-![MLN Initial Distribution](/assets/images/mln-distribution.png "Distribution")
+![MLN Initial Distribution](assets/images/mln-distribution.png "Distribution")
 
 The roadmap of Mirascape Horizon and Miraland Blockchain can be divided into three major stages: alpha stage, beta stage, and mainnet launch stage. According to the progress of the project, different digital asset issuance stategies are adopted at different stages.
 
 In the **Alpha stage**, the project team takes raising capital and recruiting validation nodes as the main task, the sooner the sponsor puts into the project, the more discounts he gets; the sooner someone becomes a validation node, the more MLN rewards he gets, welcome to sign up as Miraland validation node.
 
-![Tiered Validator Rewards](/assets/images/validator-rewards.png "Validator Rewards")
+![Tiered Validator Rewards](assets/images/validator-rewards.png "Validator Rewards")
 
 At alpha stage, in order to gather community consensus, and also as an attempt to explore the symbiosis and interconnection of the ecosystem, the community has chosen to adopt the use of the derivative digital asset **$carbon** as the community's conceptual consensus. $carbon is an ARC20 digital asset emerged in the BTC ecosystem, and its issuance is intended to trace the carbon footprint and promote carbon neutrality, which is in line with the concept of Mirascape Horizon carfoo crypto-craft, and the choice of the ARC20 digital asset is also a extending respect to BTC. $carbon will be used as a mapping and free access to the future community's native crypto assets(MLN), providing a broader space for eco-innovation. The total supply of $carbon is 100,000 mints, each containing 20,000 Satoshi BTC coins, fair launch, free to mine or trade to obtain.
 
@@ -108,12 +108,12 @@ We are looking for Miracle crypto asset fans and engineers to participate in thi
 
 ## Appendix: Screenshots from Devnet for Part of User Experience 
 
-![Overview](/assets/images/qth-tokens.png "Overview")
-![My tokoens](/assets/images/my-tokens.jpg "My Tokens")
-![Mint Raccoons](/assets/images/coon-mint.jpg "Mint Raccoons")
-![Mint Tranformers](/assets/images/catx-mint.jpg "Mint Transformers")
-![My Transactions](/assets/images/my-tx.jpg "My Transactions")
-![Airdrop Requests](/assets/images/airdrop.jpg "Request Airdrop")
+![Overview](assets/images/qth-tokens.png "Overview")
+![My tokoens](assets/images/my-tokens.jpg "My Tokens")
+![Mint Raccoons](assets/images/coon-mint.jpg "Mint Raccoons")
+![Mint Tranformers](assets/images/catx-mint.jpg "Mint Transformers")
+![My Transactions](assets/images/my-tx.jpg "My Transactions")
+![Airdrop Requests](assets/images/airdrop.jpg "Request Airdrop")
 
 Reference:
 [1] refer to [CryptoCars' white paper](https://github.com/miraland-labs/crypto-car-whitepaper/blob/main/WHITEPAPER.md)
