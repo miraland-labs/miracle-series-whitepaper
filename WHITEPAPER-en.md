@@ -72,7 +72,7 @@ Community digital assets are currently designed for carbon-based civilizations a
 ## Token Issuance Program
 **This plan is subject to change based on community consensus or other important factors before going live on the mainnet.**
 
-MLBC plans to issue 500 million native token miraland(MLN) from genesis, 40% of which will be used for community airdrops. Whether or not MLN should be considered for annual issuance will ultimately depend on the community consensus, but even if the community consensus recognizes the issuance, the annual issuance will show a decreasing trend, i.e., it will decrease from the initial 8% to 1% and then remain unchanged. The initial distribution of MLN is shown below.
+MLBC plans to issue one (1) billion native token miraland(MLN) from genesis, 45% of which will be used for Mirascape horizon/community airdrops🪂🪂🪂. The annual issuance rate of miraland(MLN) remains unchanged at 1%. The initial distribution of the MLN at the time of genesis is shown below.
 
 ![MLN Initial Distribution](assets/images/mln-distribution.png "Distribution")
 
