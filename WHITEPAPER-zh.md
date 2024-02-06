@@ -3,21 +3,15 @@
 
 旧的时代正在远去，文明已进入了web3.0和AI时代。AI极大提升了生产力，web3.0则天然为这种革命性的生产力提供了伴生的生产关系，亦即web3.0的立论之基：加密学支撑的去中心化。从web3到AI，产品迭代正在加速，Ai与Crypto结合的新经济模式，星火燎原，席卷全球，堪称奇迹。加密数字资产正在每个行业与角落开辟全新的价值空间。为了顺应这种不可逆转的趋势，同时为了能够引领数字资产应用，我们启动了本奇迹系列。
 
-就像汽车是工程的奇迹，我们推出的第一个加密数字资产应用```加密卡符(Crypto-Carfoo)```或简称```卡符(Carfoo)``` 就是加密车虚拟数字资产，借此表达我们在全球变暖大背景下对碳足迹的高度关注。汽车，目前作为智能物种的第一存在形态，是高度集成并集中体现前沿科技的宿主；而卡符就是伴随智能汽车的最重要的数字资产，更是接下来发展并践行主权个人理念的理想载体。
+就像汽车是工程的奇迹，我们推出的第一辑加密数字资产应用则是虚拟伴生现实的创新--加密车虚拟数字资产，代号卡符(carfoo) ，取意碳迹追踪（Carbon Footprints），表达并注入米兰社区在全球变暖大背景下对清洁能源、可再生能源以及碳足迹的高度关注。所以，卡符就是碳迹(积)分。清洁能源汽车，目前作为智能物种的第一存在形态，是高度集成并集中体现前沿科技的宿主；而卡符就是智能汽车在加密空间的拓扑存在与价值投影，是伴随车辆的最重要的数字资产，更是接下来发展并践行主权个人理念的理想载体。
 
 ## 主权个人时代正在到来
 
 风起于青萍之末，终于在某一天，波涛夜惊风雨骤至，主权个人的理念势如破竹无可阻挡。值得指出的是，未来的智能车自身甚至可以成为“主权个人”，即便在当下，智能汽车行驶所产生的数据所有权也应归法律意义上的车主所有，而不是车辆生产制造商。
 
-值得指出的是，未来的智能车自身甚至可以成为“主权个人”，即便在当下，智能驾驶所产生的数据其实也应归法律意义上的车主所有，而不是车辆生产制造商。
-
 ## 奇迹数字资产项目
 
 奇迹数字资产项目包含2个核心部分：用户自治价值社区--米兰社区（Mirascape Horizon）和密码学驱动的去中心化基础设施社区链（米兰链, Miraland Blockchain）。前者重在用户交互体验与用户自治，后者重在提供公平公正（Fair and Equal）的信任与价值交换。
-
-## 米兰社区(Mirascape Horizon)
-
-奇迹数字资产项目包含2个核心部分：用户自治价值社区--米兰社区（Mirascape Horizon）和Crypto驱动的去中心化基础设施社区链（米兰链, Miraland Blockchain）。前者重在用户交互体验与用户自治，后者重在提供公平公正（Fair and Equal）的信任与价值交换。
 
 ## 米兰社区(Mirascape Horizon)
 
@@ -77,19 +71,19 @@
 
 ![Tiered Validator Rewards](assets/images/validator-rewards.png "Validator Rewards")
 
-在本阶段，为了凝聚社区共识，同时作为生态圈共生互联的尝试探索，社区选择采纳使用衍生数字资产$carbon作为社区的理念共识，$carbon是BTC生态里的ARC20数字资产，其发行目的是为了跟进碳足迹促进碳中和，和米兰社区加密车的理念一致，选择ARC20数字资产同时也是为了向BTC致敬。$carbon用作映射并免费获取未来社区原生加密数字资产的凭证，提供更广阔的生态创新空间。$carbon总供应量10万张，每张含20000聪BTC币本位，公平发射，自由挖取或交易获得。
+在本阶段，为了凝聚社区共识，同时作为生态圈共生互联的尝试探索，米兰社区选择采用衍生数字资产 **\$carbon** 作为社区的理念共识，**\$carbon** 是BTC生态里的ARC20数字资产，其发行初衷是为了跟进碳足迹促进碳中和[2]，和米兰社区加密车的理念一致，选择ARC20数字资产也是为了向BTC致敬。**\$carbon** 可用作免费获取社区原生加密数字资产的凭证，同时开拓了更广阔的生态合作。**\$carbon** 总供应量10万张，每张含20000聪BTC币本位，公平发射，自由挖取或交易市场购买获得。
 
 **Beta阶段**，一旦完成alpha阶段的既定目标，将进入beta测试阶段，届时同时启动测试网络和开发网络，为主网上线做充分准备。
 
 **主网上线阶段**，米兰链正式启动，原生数字权证米兰（MLN）立即生效。符合条件的前期社区用户和节点用户可以免费兑换米兰。兑换按照当前计划主要分为三类：
 
-1） 持有$carbon免费领取
+1） 持有 **\$carbon** 的社区会员免费领取
 
 2)  参与社区活动积分兑换
 
 3） 验证节点兑换奖励
 
-前期持有$carbon的社区用户在主网上线后可以按照1:10的比例免费兑换米兰，同时用户继续保留自己的$carbon不变。即拥有一张$carbon可免费领取10枚米兰。
+前期持有 **\$carbon** 的社区用户在主网上线后可以按照1:10（暂定）的比例免费兑换米兰，同时用户继续保留自己的$carbon不变。即拥有一张 **\$carbon** 可额外免费领取10枚米兰。
 验证节点则根据加入招募计划的梯队分布领取对应的米兰奖励。
 社区积分活动后续公布。
 
@@ -103,6 +97,14 @@
 - [Whitepaper GitHub Issues](https://github.com/miraland-labs/miracle-series-whitepaper/issues)
 - [Miraland Blockchain Github](https://github.com/miraland-labs/miraland)
 
+
+出处参照：
+
+[1] 参见[虚拟加密车白皮书](https://github.com/miraland-labs/crypto-car-whitepaper/blob/main/WHITEPAPER.md)
+
+[2] 参见[Carbon X 推文](https://twitter.com/carfoopo/status/1741497826545377303)
+
+
 ## 附录: 开发网用户交互体验部分功能预览
 
 ![Overview](assets/images/qth-tokens.png "Overview")
@@ -111,6 +113,3 @@
 ![Mint Tranformers](assets/images/catx-mint.jpg "Mint Transformers")
 ![My Transactions](assets/images/my-tx.jpg "My Transactions")
 ![Airdrop Requests](assets/images/airdrop.jpg "Request Airdrop")
-
-注：
-[1] 参见[虚拟加密车白皮书](https://github.com/miraland-labs/crypto-car-whitepaper/blob/main/WHITEPAPER.md)

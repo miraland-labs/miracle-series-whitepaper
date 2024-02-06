@@ -12,7 +12,7 @@
 
 The old era is leaving, and civilization has entered the era of web3.0 and AI. AI has greatly increased productivity, and web3.0 naturally provides the accompanying production relationship for this revolutionary productivity, which is also the basis of web3.0's argument: crypto-rized decentralization. From web3.0 to AI, the product iteration is accelerating, and the new economic model combining Ai and Crypto is a miracle that is sweeping the world. Crypto digital assets are opening up brand new value space in every industry and corner. In order to comply with this irreversible trend, and at the same time, in order to be able to lead the application of digital assets, we launched this miracle series.
 
-Just as the automobile is a marvel of engineering, our first crypto-digital asset application, ```Crypto-Carfoo``` or ```Carfoo``` for short, is a crypto-craft virtual asset that expresses our heightened concern about carbon footprint in the context of global warming. The car, especially the smart car, currently the first form of intelligent species, is the host of highly integrated and centralized advanced technology; and the Carfoo is the most important digital asset accompanying the smart car, and the ideal carrier for the next development and practice of the concept of the sovereign individual.
+Just like cars are miracles of engineering, the first series of crypto-digital asset applications we launched is an innovation in virtual associated reality - the crypto car virtual digital assets, codenamed carfoo, after Carbon Footprints. Express and inject Mirascapians' heightened interest in clean and renewable energy and carbon footprints in the context of global warming. Therefore, the carfoo is carbon footprints points. Clean energy vehicles, currently the first form of existence of intelligent species, are hosts that are highly integrated and embody cutting-edge technology; the carfoo is the topological existence and value projection of smart vehicles in the crypto-space, and is the most important digital asset accompanying the vehicle, and is an ideal carrier for the subsequent development and implementation of the concept of sovereign individuals.
 
 ## The Coming Age of the Sovereign Individual
 
@@ -82,19 +82,19 @@ In the **Alpha stage**, the project team takes raising capital and recruiting va
 
 ![Tiered Validator Rewards](assets/images/validator-rewards.png "Validator Rewards")
 
-At alpha stage, in order to gather community consensus, and also as an attempt to explore the symbiosis and interconnection of the ecosystem, the community has chosen to adopt the use of the derivative digital asset **$carbon** as the community's conceptual consensus. $carbon is an ARC20 digital asset emerged in the BTC ecosystem, and its issuance is intended to trace the carbon footprint and promote carbon neutrality, which is in line with the concept of Mirascape Horizon carfoo crypto-craft, and the choice of the ARC20 digital asset is also a extending respect to BTC. $carbon will be used as a mapping and free access to the future community's native crypto assets(MLN), providing a broader space for eco-innovation. The total supply of $carbon is 100,000 mints, each containing 20,000 Satoshi BTC coins, fair launch, free to mine or trade to obtain.
+At alpha stage, in order to gather community consensus, and also as an attempt to explore the symbiosis and interconnection of the ecosystem, the community has chosen to adopt the derivative digital asset **\$carbon** as the community's conceptual consensus. **\$carbon** is an ARC20 digital asset emerged in the BTC ecosystem. Its original intention of issuance is to trace the carbon footprint and promote carbon neutrality[2], which is in line with the concept of Mirascape Horizon crypto car(one classical form of crypto crafts originated from Mirascapians), and the choice of the ARC20 digital asset is also a extending respect to BTC. **\$carbon** can be used as a certificate to obtain community-native crypto digital assets for free, while also opening up broader ecological cooperation. The total supply of **\$carbon** is 100,000 mints, each containing 20,000 Satoshi BTC currency standard, which can be obtained by fair launch, free mining or trading market purchase.
 
 **Beta stage**, once the set goals of alpha phase are completed, it will enter the beta testing phase, when the testnet and devnet will be launched at the same time to fully prepare for the mainnet launch.
 
 During the **mainnet launch stage**, Miraland blockhain is officially launched and the native token(MLN) takes effect immediately. Qualified mirascapians and node users can redeem MLN for free. Redemption is divided into three categories according to the current plan:
 
-1) Free redemption with $carbon
+1) Free for Mirascapians who hold **\$carbon** ARC20
 
 2) Participate in community activities to redeem points
 
 3) Validation node rewards redemption
 
-Mirascapians who hold $carbon in previous stages can redeem MLN for free at a ratio of 1:10 after the mainnet goes live, while still retaining their $carbon unchanged. For instance, one $carbon can receive 10 free MLN.
+Mirascapians who hold **\$carbon** in previous stages can redeem MLN for free at a ratio of 1:10 after the mainnet goes live, while still retaining their $carbon unchanged. For instance, one **\$carbon** can receive 10(tentative) free MLN.
 
 Validation nodes receive MLN rewards based on their join sequences in the recruitment program, as outlined in the distribution tier table above.
 
@@ -110,6 +110,14 @@ We are looking for Miracle crypto asset fans and engineers to participate in thi
 - [Whitepaper GitHub Issues](https://github.com/miraland-labs/miracle-series-whitepaper/issues)
 - [Miraland Blockchain Github](https://github.com/miraland-labs/miraland)
 
+
+References:
+
+[1] refer to [CryptoCars' white paper](https://github.com/miraland-labs/crypto-car-whitepaper/blob/main/WHITEPAPER.md)
+
+[2] refer to [Carbon X twitter](https://twitter.com/carfoopo/status/1741497826545377303)
+
+
 ## Appendix: Screenshots from Devnet for Part of User Experience 
 
 ![Overview](assets/images/qth-tokens.png "Overview")
@@ -118,6 +126,3 @@ We are looking for Miracle crypto asset fans and engineers to participate in thi
 ![Mint Tranformers](assets/images/catx-mint.jpg "Mint Transformers")
 ![My Transactions](assets/images/my-tx.jpg "My Transactions")
 ![Airdrop Requests](assets/images/airdrop.jpg "Request Airdrop")
-
-Reference:
-[1] refer to [CryptoCars' white paper](https://github.com/miraland-labs/crypto-car-whitepaper/blob/main/WHITEPAPER.md)
