@@ -43,7 +43,7 @@ Community digital assets include but are not limited to: points, badges, game pr
 The virtual car NFT that the Crypto-Carfoo application tries to launch is evolvable[1], and the growth of the virtual car depends on user behavior, data voluntarily or actively contributed by members or vehicle data.
 
 
-![Carfoo Digital Assets](assets/images/digital-assets-en.png "Carfoo Digital Assets")
+![Mints On Demand](assets/images/digital-assets-en.png "Mints On Demand")
 
 The community encourages users to innovate and co-create, and rewards to users in the form of digital assets through community consensus, and users are free to dispose of the virtual assets belonging to them.
 
@@ -122,7 +122,7 @@ References:
 
 ![Overview](assets/images/qth-tokens.png "Overview")
 ![My tokoens](assets/images/my-tokens.jpg "My Tokens")
-![Mint Raccoons](assets/images/coon-mint.jpg "Mint Raccoons")
+<!-- ![Mint Raccoons](assets/images/coon-mint.jpg "Mint Raccoons") -->
 ![Mint Tranformers](assets/images/catx-mint.jpg "Mint Transformers")
 ![My Transactions](assets/images/my-tx.jpg "My Transactions")
 ![Airdrop Requests](assets/images/airdrop.jpg "Request Airdrop")

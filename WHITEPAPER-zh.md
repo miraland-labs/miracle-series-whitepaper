@@ -32,7 +32,7 @@
 社区数字资产包括但不限于：积分、徽章、游戏道具、社区奖励、用户虚拟形象、虚拟车、其他数字权益（如兑换券）乃至值得尝试与探索的虚拟股权（取决于所在国家法律法规许可程度）等。
 加密卡符应用尝试推出的虚拟车NFT是可演进的[1]，虚拟车的成长/生长取决于用户行为、会员自愿或主动贡献的行为数据或车辆数据。
 
-![Miracle Digital Assets](assets/images/digital-assets-zh.png "Miracle Digital Assets")
+![Mints On Demand](assets/images/digital-assets-zh.png "Mints On Demand")
 
 社区鼓励用户创新与共创，并通过社区共识以数字资产的形式对用户进行奖励，用户对属于自己的虚拟数字资产自由处置。
 
@@ -109,7 +109,7 @@
 
 ![Overview](assets/images/qth-tokens.png "Overview")
 ![My tokoens](assets/images/my-tokens.jpg "My Tokens")
-![Mint Raccoons](assets/images/coon-mint.jpg "Mint Raccoons")
+<!-- ![Mint Raccoons](assets/images/coon-mint.jpg "Mint Raccoons") -->
 ![Mint Tranformers](assets/images/catx-mint.jpg "Mint Transformers")
 ![My Transactions](assets/images/my-tx.jpg "My Transactions")
 ![Airdrop Requests](assets/images/airdrop.jpg "Request Airdrop")
