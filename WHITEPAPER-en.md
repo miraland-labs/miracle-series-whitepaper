@@ -20,11 +20,11 @@ The wind begins with a ripple in the grass, and finally, one day, the torrential
 
 ## Miracle Crypto Asset Project
 
-The **Miracle Crypto Asset** project consists of two core components: the Mirascape Horizon, user autonomous value community and the Miraland Blockchain, a crypto-driven decentralized infrastructure community chain. The former focuses on user interaction experience and user autonomy, while the latter focuses on providing fair and equal trust and value exchange.
+The **Miracle Crypto Asset project** consists of two core components: the Mirascape Horizon, user autonomous value community and the Miraland Blockchain, a crypto-driven decentralized infrastructure community chain. The former focuses on user interaction experience and user autonomy, while the latter focuses on providing fair and equal trust and value exchange.
 
 ## Mirascape Horizon (MSHZ)
 
-As a sovereign individual, any individual, corporate or AI intelligence can choose to join Mirascape Horizon as a member, members are commonly referred to as Mirascapian(s). The core concept and spirit of Mirascape Horizon emphasizes user autonomy, user consensus and user value. MSHZ consists of multiple tribes oriented by industry themes or interests. Corporate members include, but are not limited to, the following types or forms of eco-partners: auto brands or manufacturers, dealers, pop-up shops, repair stations, auto insurance, auto finance, auto leasing, auto decoration and beauty, used car agencies, travels and hotels, food and beverage brands, etc.
+The Miraland Horizon is an ecological community based on web3 for sovereign individuals, including but not limited to: car enthusiasts, car owners, game enthusiasts, fashion consumers, etc. As a sovereign individual, any individual, corporate or AI intelligence can choose to join Mirascape Horizon as a member, members are commonly referred to as Mirascapian(s). The core concept and spirit of Mirascape Horizon emphasizes user autonomy, user consensus and user value. MSHZ consists of multiple tribes oriented by industry themes or interests. Corporate members include, but are not limited to, the following types or forms of eco-partners: auto brands or manufacturers, dealers, pop-up shops, repair stations, auto insurance, auto finance, auto leasing, auto decoration and beauty, used car agencies, travels and hotels, food and beverage brands, etc.
 
 **Community Vision: Crafting The Most Trustless Value Community in the Age of Sovereign Individuals**
 
@@ -82,7 +82,7 @@ In the **Alpha stage**, the project team takes raising capital and recruiting va
 
 ![Tiered Validator Rewards](assets/images/validator-rewards.png "Validator Rewards")
 
-At alpha stage, in order to gather community consensus, and also as an attempt to explore the symbiosis and interconnection of the ecosystem, the community has chosen to adopt the derivative digital asset **\$carbon** as the community's conceptual consensus. **\$carbon** is an ARC20 digital asset emerged in the BTC ecosystem. Its original intention of issuance is to trace the carbon footprint and promote carbon neutrality[2], which is in line with the concept of Mirascape Horizon crypto car(one classical form of crypto crafts originated from Mirascapians), and the choice of the ARC20 digital asset is also a extending respect to BTC. **\$carbon** can be used as a certificate to obtain community-native crypto digital assets for free, while also opening up broader ecological cooperation. The total supply of **\$carbon** is 500,000 mints, each containing 20,000 Satoshi BTC currency standard, which can be obtained by fair launch, free mining or trading market purchase.
+At alpha stage, in order to guide and deepen the community concept, and at the same time as an attempt to explore the symbiotic interconnection of the ecosystem, the community recommends the use of the derivative digital assets **\$carbon** and **\$cryptocar** to build community consensus. Both $carbon and $cryptocar are ARC20 cryptographic assets in the BTC ecosystem. The original intention of **\$carbon** issuance is to track carbon footprints and promote carbon neutrality[2], and **\$cryptocar** is the embodiment of the intelligent vehicle in the web3 crypto space of the Ai-Cypto era . These are in line with the concept of the Mirascape Horizon crypto-car(a classic form of crypto-craft created by Mirascapians), and the choice of the ARC20 digital assets is also a extending respect to BTC. Both **\$carbon** and **\$cryptocar** are considered honorary stamps for the Mirascape Horizon, and can be used as a certificate to obtain the community's native crypto digital assets for free, while also opening up broader ecological cooperation. The total supply of **\$carbon** is 500,000 mints, each containing 20,000 Satoshi BTC currency standard, The **\$cryptocar** is relatively rare, with only 10,000 mints available, each containing 10,920 Satoshi BTC currency standard. As an ARC20 crypto asset, they have been launched fairly and anyone can freely mine them or buy them on the exchange market. As of now (2024.02.20), both the mining and/or minting of **\$carbon** and **\$cryptocar** are still in the very early stages.
 
 **Beta stage**, once the set goals of alpha phase are completed, it will enter the beta testing phase, when the testnet and devnet will be launched at the same time to fully prepare for the mainnet launch.
 
@@ -95,6 +95,8 @@ During the **mainnet launch stage**, Miraland blockhain is officially launched a
 3) Validation node rewards redemption
 
 Mirascapians who hold **\$carbon** in previous stages can redeem MLN for free at a ratio of 1:10 after the mainnet goes live, while still retaining their $carbon unchanged. For instance, one **\$carbon** can receive 10(tentative) free MLN.
+
+Mirascapians who hold **\$cryptocar** in previous stages can redeem MLN for free at a ratio of 1:100 after the mainnet goes live, while still retaining their $cryptocar unchanged. For instance, one **\$cryptocar** can receive 100(tentative) free MLN.
 
 Validation nodes receive MLN rewards based on their join sequences in the recruitment program, as outlined in the distribution tier table above.
 
