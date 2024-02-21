@@ -88,13 +88,15 @@ At alpha stage, in order to guide and deepen the community concept, and at the s
 
 During the **mainnet launch stage**, Miraland blockhain is officially launched and the native token(MLN) takes effect immediately. Qualified mirascapians and node users can redeem MLN for free. Redemption is divided into three categories according to the current plan:
 
-1) Free for Mirascapians who hold **\$carbon** ARC20
+1) Free for Mirascapians who hold ARC20 assets like **\$carbon**, **\$cryptocar** or **\$miracle**
 
 2) Participate in community activities to redeem points
 
 3) Validation node rewards redemption
 
 Mirascapians who hold **\$carbon** in previous stages can redeem MLN for free at a ratio of 1:10 after the mainnet goes live, while still retaining their $carbon unchanged. For instance, one **\$carbon** can receive 10(tentative) free MLN.
+
+Mirascapians who hold **\$cryptocar** in previous stages can redeem MLN for free at a ratio of 1:100 after the mainnet goes live, while still retaining their $cryptocar unchanged. For instance, one **\$cryptocar** can receive 100(tentative) free MLN.
 
 Mirascapians who hold **\$miracle** in previous stages can redeem MLN for free at a ratio of 1:100 after the mainnet goes live, while still retaining their $miracle unchanged. For instance, one **\$miracle** can receive 100(tentative) free MLN.
 
