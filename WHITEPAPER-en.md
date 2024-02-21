@@ -82,7 +82,7 @@ In the **Alpha stage**, the project team takes raising capital and recruiting va
 
 ![Tiered Validator Rewards](assets/images/validator-rewards.png "Validator Rewards")
 
-At alpha stage, in order to guide and deepen the community concept, and at the same time as an attempt to explore the symbiotic interconnection of the ecosystem, the community recommends the use of the derivative digital assets **\$carbon** and **\$cryptocar** to build community consensus. Both $carbon and $cryptocar are ARC20 cryptographic assets in the BTC ecosystem. The original intention of **\$carbon** issuance is to track carbon footprints and promote carbon neutrality[2], and **\$cryptocar** is the embodiment of the intelligent vehicle in the web3 crypto space of the Ai-Cypto era . These are in line with the concept of the Mirascape Horizon crypto-car(a classic form of crypto-craft created by Mirascapians), and the choice of the ARC20 digital assets is also a extending respect to BTC. Both **\$carbon** and **\$cryptocar** are considered honorary stamps for the Mirascape Horizon, and can be used as a certificate to obtain the community's native crypto digital assets for free, while also opening up broader ecological cooperation. The total supply of **\$carbon** is 500,000 mints, each containing 20,000 Satoshi BTC currency standard, The **\$cryptocar** is relatively rare, with only 10,000 mints available, each containing 10,920 Satoshi BTC currency standard. As an ARC20 crypto asset, they have been launched fairly and anyone can freely mine them or buy them on the exchange market. As of now (2024.02.20), both the mining and/or minting of **\$carbon** and **\$cryptocar** are still in the very early stages.
+At alpha stage, in order to guide and deepen the community concept, and at the same time as an attempt to explore the symbiotic interconnection of the ecosystem, The Community recommends a set of derivative digital assets for community users to choose flexibly according to their own preferences in order to build community consensus. These assets include, but are not limited to: **\$carbon**, **\$cryptocar** and **\$miracle**. All are ARC20 cryptographic assets in the BTC ecosystem. The original intention of **\$carbon** issuance is to track carbon footprints and promote carbon neutrality[2], **\$cryptocar** is a classic form of crypto-craft that originated with the early Mirascape explorers, and **\$miracle** is definitely the embodiment of the ai-crypto craftsmanship in the web3 space of the sovereign individual era. These are fully in line with the beliefs and concepts of the Mirascape Horizon, and the choice of the ARC20 digital assets is also a extending respect to BTC. They are considered honorary stamps for the Mirascape Horizon, and can be used as a certificate to obtain the community's native crypto digital assets for free, while also opening up broader ecological cooperation. The total supply of **\$carbon** is 500,000 mints, each containing 20,000 Satoshi BTC currency standard, The **\$cryptocar** and **\$miracle** are relatively rare, with only 10,000 mints available for each of them, specifically, each **\$cryptocar** contains 10,920 Satoshi BTC currency standard and each **\$miracle** contains 16,380 Satoshi BTC currency standard. As an ARC20 crypto asset, they have been launched fairly and anyone can freely mine them or buy them on the exchange market. As of today (2024.02.21), mining/minting is still in the very early stages.
 
 **Beta stage**, once the set goals of alpha phase are completed, it will enter the beta testing phase, when the testnet and devnet will be launched at the same time to fully prepare for the mainnet launch.
 
@@ -96,7 +96,7 @@ During the **mainnet launch stage**, Miraland blockhain is officially launched a
 
 Mirascapians who hold **\$carbon** in previous stages can redeem MLN for free at a ratio of 1:10 after the mainnet goes live, while still retaining their $carbon unchanged. For instance, one **\$carbon** can receive 10(tentative) free MLN.
 
-Mirascapians who hold **\$cryptocar** in previous stages can redeem MLN for free at a ratio of 1:100 after the mainnet goes live, while still retaining their $cryptocar unchanged. For instance, one **\$cryptocar** can receive 100(tentative) free MLN.
+Mirascapians who hold **\$miracle** in previous stages can redeem MLN for free at a ratio of 1:100 after the mainnet goes live, while still retaining their $miracle unchanged. For instance, one **\$miracle** can receive 100(tentative) free MLN.
 
 Validation nodes receive MLN rewards based on their join sequences in the recruitment program, as outlined in the distribution tier table above.
 
@@ -115,7 +115,7 @@ We are looking for Miracle crypto asset fans and engineers to participate in thi
 
 References:
 
-[1] refer to [CryptoCars' white paper](https://github.com/miraland-labs/crypto-car-whitepaper/blob/main/WHITEPAPER.md)
+[1] refer to [miracles' white paper](https://github.com/miraland-labs/crypto-car-whitepaper/blob/main/WHITEPAPER.md)
 
 [2] refer to [Carbon X twitter](https://twitter.com/carfoopo/status/1741497826545377303)
 
